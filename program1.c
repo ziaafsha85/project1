@@ -2,6 +2,13 @@ this is my program 1 file
 this is second statment of program
 this line i have written from feature branch
 this  is third statement of program
+
+
+
+
+
+
+
 rm: cannot remove '/etc/post-install/01-devices.post': Permission denied
 rm: cannot remove '/etc/post-install/03-mtab.post': Permission denied
 rm: cannot remove '/etc/post-install/06-windows-files.post': Permission denied
